@@ -1,11 +1,6 @@
 ### Hi there its me bijoy 👋
 [![HitCount](http://hits.dwyl.com/hasan225/hasan225.svg)](http://hits.dwyl.com/hasan225/hasan225)
 
-
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...fiverr
 - 🌱 I’m currently learning ...js
 - 👯 I’m looking to collaborate on ...freelancer
