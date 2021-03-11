@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...anything
 - 📫 How to reach me: ...uzumakibijoy2017@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...challenging myself
 -->
