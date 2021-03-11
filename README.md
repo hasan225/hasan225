@@ -1,4 +1,5 @@
 ### Hi there its me bijoy 👋
+[![HitCount](http://hits.dwyl.com/hasan225/hasan225.svg)](http://hits.dwyl.com/hasan225/hasan225)
 
 <!--
 **hasan225/hasan225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
