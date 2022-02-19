@@ -3,11 +3,11 @@
 
 ![hasan's Github Stats](https://github-readme-stats.vercel.app/api?username=hasan225)
 
-- 🔭 I’m currently working on ...still haven't started
-- 🌱 I’m currently learning ...programming
-- 👯 I’m looking to collaborate on ...not yet
-- 🤔 I’m looking for help with ...not found yet
+- 🔭 I’m currently working on ... Fiverr
+- 🌱 I’m currently learning ...Javascipt
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...anything
 - 📫 How to reach me: ...uzumakibijoy2017@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...challenging myself
+- ⚡ Fun fact: ...
