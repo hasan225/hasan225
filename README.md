@@ -4,7 +4,7 @@
 ![hasan's Github Stats](https://github-readme-stats.vercel.app/api?username=hasan225)
 
 - 🔭 I’m currently working on ... Fiverr
-- 🌱 I’m currently learning ...Javascipt
+- 🌱 I’m currently learning ... React Js
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...anything
